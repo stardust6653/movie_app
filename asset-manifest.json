@@ -1,12 +1,17 @@
 {
   "files": {
-    "main.js": "/movie_app/static/js/main.9bd6d56f.js",
+    "main.css": "/movie_app/static/css/main.ea03c331.css",
+    "main.js": "/movie_app/static/js/main.3ae0ca90.js",
     "static/js/787.7c42db31.chunk.js": "/movie_app/static/js/787.7c42db31.chunk.js",
+    "static/media/main_banner.jpeg": "/movie_app/static/media/main_banner.c37601750948e379fd23.jpeg",
+    "static/media/strange_things_logo.png": "/movie_app/static/media/strange_things_logo.306e8affa969f2e1616f.png",
     "index.html": "/movie_app/index.html",
-    "main.9bd6d56f.js.map": "/movie_app/static/js/main.9bd6d56f.js.map",
+    "main.ea03c331.css.map": "/movie_app/static/css/main.ea03c331.css.map",
+    "main.3ae0ca90.js.map": "/movie_app/static/js/main.3ae0ca90.js.map",
     "787.7c42db31.chunk.js.map": "/movie_app/static/js/787.7c42db31.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9bd6d56f.js"
+    "static/css/main.ea03c331.css",
+    "static/js/main.3ae0ca90.js"
   ]
 }
