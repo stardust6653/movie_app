@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/movie_app/static/css/main.ea03c331.css",
-    "main.js": "/movie_app/static/js/main.3ae0ca90.js",
+    "main.css": "/movie_app/static/css/main.c824925c.css",
+    "main.js": "/movie_app/static/js/main.8c57f73b.js",
     "static/js/787.7c42db31.chunk.js": "/movie_app/static/js/787.7c42db31.chunk.js",
     "static/media/main_banner.jpeg": "/movie_app/static/media/main_banner.c37601750948e379fd23.jpeg",
     "static/media/strange_things_logo.png": "/movie_app/static/media/strange_things_logo.306e8affa969f2e1616f.png",
     "index.html": "/movie_app/index.html",
-    "main.ea03c331.css.map": "/movie_app/static/css/main.ea03c331.css.map",
-    "main.3ae0ca90.js.map": "/movie_app/static/js/main.3ae0ca90.js.map",
+    "main.c824925c.css.map": "/movie_app/static/css/main.c824925c.css.map",
+    "main.8c57f73b.js.map": "/movie_app/static/js/main.8c57f73b.js.map",
     "787.7c42db31.chunk.js.map": "/movie_app/static/js/787.7c42db31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea03c331.css",
-    "static/js/main.3ae0ca90.js"
+    "static/css/main.c824925c.css",
+    "static/js/main.8c57f73b.js"
   ]
 }
