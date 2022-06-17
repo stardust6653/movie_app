@@ -1,0 +1,20 @@
+.top_menu{
+  color: #efefef;
+  height: 50px;
+  text-align: right;
+}
+
+.top_menu a{
+  display: inline-block;
+  margin: 17px 25px 0 0;
+  font-size: 15px;
+}
+
+.top_menu a:last-child{
+  margin-right: 30px;
+}
+
+.top_menu a, a:active, a:visited, a:focus, a:hover{
+  color: #d5d5d5;
+  text-decoration: none;
+}
