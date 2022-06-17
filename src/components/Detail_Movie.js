@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import styles from "./Detail_Movie.module.css"
 
 function Detail_Movie({id, coverImg, title, genres, rating, description}){
   return (
@@ -10,7 +11,6 @@ function Detail_Movie({id, coverImg, title, genres, rating, description}){
         <span>제작연도 : {genres}</span>
       </div>
       <p>간편줄거리 : {description}</p>
-
     </div>
   )
 }
